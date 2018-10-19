@@ -20,8 +20,7 @@
 这里面就包括，简单线性回归、线性平均、加权平均、一次指数平滑模型、二次指数平滑模型、三次指数平滑模型；
 放置阶段就是背包问题，这里面就包括，0-1背包、完全背包、多重背包问题。
 ```
-***
-![团队分数](./master/MyResult.png)
+![团队分数](https://github.com/Harrdy2018/2018-Huawei-Code-Craft/blob/master/MyResult.png)
 
 
 
