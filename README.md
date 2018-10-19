@@ -21,13 +21,11 @@
 放置阶段就是背包问题，这里面就包括，0-1背包、完全背包、多重背包问题。
 ```
 ***
-![团队分数](https://github.com/Harrdy2018/2018-Huawei-Code-Craft/blob/master/MyResult.png)
-
-
+![团队分数](./master/MyResult.png)
 
 ***
 ### 江山赛区初赛成绩
-![image 江山赛区初赛成绩](https://github.com/Harrdy2018/2018-Huawei-Code-Craft/blob/master/%E6%B1%9F%E5%B1%B1%E8%B5%9B%E5%8C%BA%E5%88%9D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
+![image 江山赛区初赛成绩](./master/%E6%B1%9F%E5%B1%B1%E8%B5%9B%E5%8C%BA%E5%88%9D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
 
 ***
 ### 2018华为软挑全国各个赛区初赛64强成绩
