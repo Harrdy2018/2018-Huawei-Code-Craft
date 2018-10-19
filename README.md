@@ -1,4 +1,4 @@
-# 2018-Huawei-Code-Craft
+## 2018-Huawei-Code-Craft
 
 ***
 ### 介绍
